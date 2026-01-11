@@ -1,0 +1,3 @@
+customers = {}
+items = {}
+invoices = {}
